@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 3000",
-    "prebuild": "bash scripts/prebuild.sh || node scripts/prebuild.cjs || echo 'Skipping prebuild'", 
+    "prebuild": "if [ -f scripts/prebuild.sh ]; then bash scripts/prebuild.sh; elif [ -f scripts/prebuild.cjs ]; then node scripts/prebuild.cjs; else echo 'Skipping prebuild'; fi",
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
@@ -40,7 +40,7 @@
     "@radix-ui/react-select": "^2.2.5",
     "@radix-ui/react-separator": "^1.1.7",
     "@radix-ui/react-slider": "^1.3.5",
-    "@radix-ui/react-slot": "^1.2.3",
+    "@radix-ui/react-slot": "^2.1.3",
     "@radix-ui/react-switch": "^1.2.5",
     "@radix-ui/react-tabs": "^1.1.12",
     "@radix-ui/react-toast": "^1.2.14",
