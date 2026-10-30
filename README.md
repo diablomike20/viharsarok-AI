@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🚀 Brutal-ai
+# 🚀 Viharsarok-ai
 
 
-### **Smarter. Faster. Brutal.**
+### **Smarter. Faster. AI.**
  
 **A world-class AI SaaS platform built with Next.js 16**
 
@@ -17,7 +17,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.0-ff69b4?style=flat-square)](https://www.framer.com/motion/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE) 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/brutal-ai/brutal-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/diablomike20/viharsarok-AI)
 
 </div>
 
@@ -65,7 +65,7 @@ const brutalAI = {
 
 Brutal.ai is a next-generation AI platform designed for developers, creators, and businesses who demand excellence. Experience the power of AI with a clean, professional interface that prioritizes speed, clarity, and precision.
 
-### 🎯 Why Brutal.ai?
+### 🎯 Why Viharsarok.ai?
 
 | Feature | Description | Status |
 |---------|-------------|--------|
@@ -88,11 +88,11 @@ Brutal.ai is a next-generation AI platform designed for developers, creators, an
 
 **📸 Screenshot Description:**
 
-The Hero Section showcases Brutal.ai's premium landing experience with a stunning two-column layout:
+The Hero Section showcases Viharsarok-ai's premium landing experience with a stunning two-column layout:
 
 | Component | Description |
 |-----------|-------------|
-| 🎨 **Left Side** | Features the animated "Brutal.ai" title with gradient color cycling, floating crown badge, subtitle with shimmer effects, two interactive CTA buttons with 3D hover effects, and three animated stat cards showing platform metrics |
+| 🎨 **Left Side** | Features the animated "Viharsarok-AI" title with gradient color cycling, floating crown badge, subtitle with shimmer effects, two interactive CTA buttons with 3D hover effects, and three animated stat cards showing platform metrics |
 | 💻 **Right Side** | Displays the typewriter code terminal with live syntax highlighting, rotating gradient borders, pulsing glow effects, scan line animation, and real-time code generation simulation |
 | 🌌 **Background** | Contains 3D parallax orbs that follow mouse movement, animated grid pattern, and 20+ floating particles with random opacity animations |
 | ✨ **Effects** | Shimmer animations on buttons, floating particles throughout, gradient text with animated color cycling |
@@ -229,7 +229,7 @@ Each tool opens in a dedicated workspace with consistent UI:
 
 **📸 Screenshot Description:**
 
-Brutal.ai features a beautiful dual-theme system:
+Viharsarok-AI features a beautiful dual-theme system:
 
 | Theme | Background | Text | Accents |
 |-------|------------|------|---------|
@@ -490,10 +490,10 @@ jsPDF
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                              📁 BRUTAL.AI PROJECT                             ║
+║                        📁 VIHARSAROK-AI PROJECT                             ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
-brutal-ai/
+viharsarok-ai/
 │
 ├── 📂 public/                          # Static Assets
 │   ├── 🖼️ logo.png                     # AI-generated brand logo
@@ -697,10 +697,10 @@ Bun >= 1.0.0  # Recommended
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # Clone the repository
-git clone https://github.com/brutal-ai/brutal-ai.git
+git clone [https://github.com/diablomike20/viharsarok-AI.git]
 
 # Navigate to project
-cd brutal-ai
+cd viharsarok-AI
 
 # Install dependencies
 bun install
@@ -745,7 +745,7 @@ bun run lint
 
 <div align="center">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/brutal-ai/brutal-ai)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/diablomike20/viharsarok-AI.git)
 
 </div>
 
@@ -757,7 +757,8 @@ bun run lint
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
 │  1️⃣  FORK & CLONE                                               │
-│     git clone https://github.com/brutal-45/Brutal-ai.git        │
+│     git clone                                                    │
+│     https://github.com/diablomike20/viharsarok-AI.git.git        │
 │                                                                 │
 │  2️⃣  CREATE VERCEL PROJECT                                      │
 │      → Go to vercel.com                                          │
@@ -1134,7 +1135,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2024 Brutal.ai
+Copyright (c) 2026 Viharsarok.ai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1151,9 +1152,9 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-### **DEVELOPED UNDER BRUTALTOOLS**
 
-**Made with Brutaltools  by the Brutal.ai **
+### **DEVELOPED UNDER VIHARSAROK-AI**
+
 
 [![Brutal.ai](https://img.shields.io/badge/Brutal.ai-Powered-blue?style=for-the-badge)](https://brutal.ai)
 
